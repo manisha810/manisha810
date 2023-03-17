@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data science**
 - 👀 I’m interested in learning new exciting things each day
-- 👯 linkedin :- linkedin.com/in/manisha-a855ab265
+- 👯 linkedin :- https://www.linkedin.com/in/manisha-a855ab265
 
 <p align="left">
 </p>
