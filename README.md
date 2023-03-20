@@ -1,5 +1,4 @@
 <h6 style="color:red;" align="center">Passionate about learning and growth😊.</h6>
-<p style="color:red;">Passionate about learning and growth😊d</p>
 
 ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋 I'am Manisha</h1>
